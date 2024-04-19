@@ -22,10 +22,6 @@ h3{
 color: white;
 }
 @media (max-width: 950px){
-
-
-
-    border: solid red 1px;
     h2{
 font-size: 20px;
 padding: 20px;
