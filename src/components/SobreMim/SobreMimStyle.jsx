@@ -8,6 +8,7 @@ background-color: #241F38;
 width: 100%;
 height: 100vh;
 text-align: center;
+
 img{
 align-items: center;
  padding: 0 25px 0  ;
@@ -21,7 +22,10 @@ h3{
 color: white;
 }
 @media (max-width: 950px){
-    height: 50%;
+
+
+
+    border: solid red 1px;
     h2{
 font-size: 20px;
 padding: 20px;
@@ -36,7 +40,11 @@ padding: 0 10px;
 export const CaixaIcones = styled.div`
 display: flex;
 align-items: center;
+
 @media (max-width: 950px){
-height: 16vh;
+height: 100%;
+
+
+
 }
 `

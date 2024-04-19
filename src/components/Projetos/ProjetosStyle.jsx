@@ -7,6 +7,8 @@ align-items: center;
 background-color: #241F38;
 width: 100%;
 img{
+
+  
 width: 20vw;
 height: 20vh;
 }
@@ -35,7 +37,7 @@ background-color:#5f44c7 ;
 }
 @media (max-width: 950px){
   img{
-width: 50vw;
+width: 70%;
   }
 }
 
