@@ -4,7 +4,7 @@ export const CaixaSobre = styled.div`
 display: flex;
 flex-direction: column;
 align-items: center;
-background-color: #241F38;
+background-color: #212121;
 width: 100%;
 height: 100vh;
 text-align: center;
@@ -25,9 +25,8 @@ color: white;
     h2{
 font-size: 20px;
 padding: 20px;
-    }
+}
     img{
-
 height: 7vh;
 padding: 0 10px;
     }

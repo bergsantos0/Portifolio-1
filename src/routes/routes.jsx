@@ -3,8 +3,6 @@ import { InicioPage } from "../pages/Inicio/InicioPage";
 import { ProjetosPage } from "../pages/projetos/ProjetosPage";
 import { SobreMimPage } from "../pages/SobreMim/SobreMimPage";
 
-
-
 const router = createBrowserRouter([
     {
       path: '/',
@@ -18,7 +16,6 @@ const router = createBrowserRouter([
     {
       path: '/Projetos',
       element: <ProjetosPage />,
-      
     },
   ]);
   
